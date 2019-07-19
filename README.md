@@ -1,3 +1,3 @@
 # public
 
-ga na da ra ma ba sa
+This is a Donghee's GitHub.
